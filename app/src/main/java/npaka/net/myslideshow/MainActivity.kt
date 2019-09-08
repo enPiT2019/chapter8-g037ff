@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.slide04, R.drawable.slide05,
             R.drawable.slide06, R.drawable.slide07,
             R.drawable.slide08, R.drawable.slide09
+
         )
 
         override fun getCount(): Int{
